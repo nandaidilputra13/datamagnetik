@@ -1,4 +1,4 @@
-﻿OBJECTID *,Shape *,Field1,Field2,Field3,Field4,Field5,Field6,Field7,Field8
+﻿OBJECTID *,Shape *,i,j,Longitude,Latitude,Sealevel,Upcont,Code,Error
 29087374,Point,2974,2707,99.116667,-0.216667,-49,-46.366342,13,212
 29087375,Point,2975,2707,99.15,-0.216667,-49,-45.723999,13,212
 29087376,Point,2976,2707,99.183333,-0.216667,-48,-44.740272,888,-888
